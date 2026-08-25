@@ -1,0 +1,41 @@
+﻿"rule.mitre.id: Descending","rule.mitre.tactic: Descending","rule.mitre.technique: Descending","rule.description: Descending","timestamp: Descending",Count
+T1021,"Lateral Movement","Brute Force","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:03:04.893",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:04:41.725",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:05:12.243",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:14:29.825",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:01:08.588",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:09:44.130",1
+T1021,"Lateral Movement","Brute Force","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:10:31.466",1
+T1021,"Lateral Movement","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1021,"Lateral Movement","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:03:04.893",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:04:41.725",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:05:12.243",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible attack on the ssh server (or version gathering).","Aug 24, 2026 @ 15:14:29.825",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:01:08.588",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:09:44.130",1
+T1021,"Lateral Movement","Remove Services","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:10:31.466",1
+T1021,"Lateral Movement","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1021,"Lateral Movement","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1021,"Credential Access","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1021,"Credential Access","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1021,"Credential Access","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1021,"Credential Access","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1110,"Credential Access","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1110,"Credential Access","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1110,"Credential Access","Brute Force","sshd: Possible breakin attempt (high number of reverse lookup errors).","Aug 24, 2026 @ 15:02:10.715",1
+T1110,"Credential Access","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1110,"Credential Access","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1110,"Lateral Movement","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1110,"Lateral Movement","Brute Force","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1110,"Lateral Movement","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:00:26.329",1
+T1110,"Lateral Movement","Remove Services","Maximum authentication attempts exceeded.","Aug 24, 2026 @ 15:12:54.766",1
+T1499,Impact,"Endpoint Denial of Service","Error message from the kernel. Ping of death attack.","Aug 24, 2026 @ 15:11:38.748",1
+T1499,Impact,"Endpoint Denial of Service","Non standard syslog message (size too large).","Aug 24, 2026 @ 15:01:09.009",1
+T1499,Impact,"Endpoint Denial of Service","sendmail: Multiple attempts to send e-mail from invalid/unknown sender.","Aug 24, 2026 @ 15:05:58.788",1
+T1499,Impact,"Email Collection","sendmail: Multiple attempts to send e-mail from invalid/unknown sender.","Aug 24, 2026 @ 15:05:58.788",1
+T1499,Collection,"Email Collection","sendmail: Multiple attempts to send e-mail from invalid/unknown sender.","Aug 24, 2026 @ 15:05:58.788",1
+T1499,Collection,"Endpoint Denial of Service","sendmail: Multiple attempts to send e-mail from invalid/unknown sender.","Aug 24, 2026 @ 15:05:58.788",1
+T1078,"Initial Access","Valid Accounts","Courier (imap/pop3) authentication success.","Aug 24, 2026 @ 15:08:10.636",1
+T1078,"Initial Access","Valid Accounts","PIX: AAA (VPN) authentication successful.","Aug 24, 2026 @ 15:13:40.780",1
+"T1059.001",Execution,PowerShell,"Powershell process spawned powershell instance","Aug 24, 2026 @ 15:06:26.429",1

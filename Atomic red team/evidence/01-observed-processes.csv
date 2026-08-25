@@ -1,0 +1,3 @@
+﻿"Parent Process","Child Processs","Command Line",Count
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe","C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe","\""powershell.exe\"" &amp; {$RunKey = \\\""\""HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\\""\"" Set-ItemProperty -Path $RunKey -Name \\\""\""socks5_powershell\\\""\"" -Value \\\""\""powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -File\\\""\""}",1
+"C:\\Windows\\System32\\svchost.exe","C:\\Windows\\System32\\sdbinst.exe","C:\\WINDOWS\\System32\\sdbinst.exe -m -bg",1
